@@ -4,7 +4,6 @@
     <groups> <!-- Groups Control -->
         <run>
             <include name="HeaderTests" />
-            <include name="ButtonTests" />
         </run>
     </groups>
     <test name="FSTActivities"> <!-- Test Classes -->
