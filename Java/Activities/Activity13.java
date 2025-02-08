@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class RandomScannerActivity {
+public class Activity13 {
 	public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
 	Random  indexGen = new Random();
