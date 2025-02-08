@@ -46,7 +46,7 @@ public class Activity7 {
 	    
 	  
 	    
-	    @Test(priority=1)
+	    @Test
 	    public void Images() throws InterruptedException{
 	    	wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(AppiumBy.xpath("//android.widget.TextView[@text=\"Lazy Loading\"]")));
 	    	
